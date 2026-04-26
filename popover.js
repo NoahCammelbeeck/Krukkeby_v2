@@ -40,9 +40,10 @@ const popoverData = {
       <h2>NPC'er</h2>
       <p>Tom Fløjtemand</p>
       <h2>Materialer</h2>
-      <p></p>
+      <p>Siv</p>
+      <p>Vand</p>
       <h2>Andre detaljer</h2>
-      <p></p>
+      <p>Floden er næsten fuldstændigt stoppet af en bæverdæmning.</p>
     `,
   },
   stenbruddet: {
