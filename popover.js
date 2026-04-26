@@ -5,16 +5,9 @@ const popoverData = {
       <h2>NPC'er</h2>
       <p></p>
       <h2>Materialer</h2>
-      <p>Træ (ubehandlet)
-
-</p>
-   <p>Harpiks
-
-</p>
-   <p>Mos
-
-</p>
-
+      <p>Træ (ubehandlet)</p>
+   <p>Harpiks</p>
+   <p>Mos</p>
       <h2>Andre detaljer</h2>
       <p></p>
     `,
