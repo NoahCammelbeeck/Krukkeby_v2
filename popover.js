@@ -28,9 +28,7 @@ const popoverData = {
       <h2>NPC'er</h2> 
       <p></p>
       <h2>Materialer</h2>
-      <p>Mursten</p>
-      <p>Træ (behandlet)</p>
-      <p>Trætønder</p>
+     
       <h2>Andre detaljer</h2>
       <p></p>
     `,
@@ -67,7 +65,9 @@ const popoverData = {
       <h2>NPC'er</h2>
       <p></p>
       <h2>Materialer</h2>
-      <p></p>
+      <p>Mursten</p>
+      <p>Træ (behandlet)</p>
+      <p>Trætønder</p>
       <h2>Andre detaljer</h2>
       <p></p>
     `,
