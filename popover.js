@@ -25,10 +25,13 @@ const popoverData = {
     title: "Marken",
     content: `
 
-      <h2>NPC'er</h2>
+      <h2>NPC'er</h2> 
       <p></p>
       <h2>Materialer</h2>
-      <p></p>
+      <p>Mursten</p>
+      <p>Træ (behandlet)</p>
+      <p>Trætønder</p>
+
       <h2>Andre detaljer</h2>
       <p></p>
     `,
