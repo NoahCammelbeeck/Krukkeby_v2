@@ -32,7 +32,7 @@ const popoverData = {
         <p>Korn</p>
         <p>Hø</p>
       <h2>Andre detaljer</h2>
-      <p></p>
+      <p>Der et spor fra en enorm slange</p>
     `,
   },
   orkaløb: {
@@ -55,7 +55,9 @@ const popoverData = {
       <h2>NPC'er</h2>
       <p></p>
       <h2>Materialer</h2>
-      <p></p>
+      <p>Malm (ubehandlet)</p>
+      <p>Flintesten</p>
+      <p>Ler</p>
       <h2>Andre detaljer</h2>
       <p></p>
     `,
