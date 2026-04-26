@@ -31,7 +31,6 @@ const popoverData = {
       <p>Mursten</p>
       <p>Træ (behandlet)</p>
       <p>Trætønder</p>
-
       <h2>Andre detaljer</h2>
       <p></p>
     `,
