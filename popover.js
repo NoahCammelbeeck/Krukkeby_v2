@@ -28,7 +28,9 @@ const popoverData = {
       <h2>NPC'er</h2> 
       <p></p>
       <h2>Materialer</h2>
-     
+        <p>slangegham 120kvm</p>
+        <p>Korn</p>
+        <p>Hø</p>
       <h2>Andre detaljer</h2>
       <p></p>
     `,
